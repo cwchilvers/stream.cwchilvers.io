@@ -1,0 +1,12 @@
+{
+  "name": "stream.cwchilvers.io",
+  "author": "Chandler Chilvers",
+  "scripts": {
+    "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\"",
+    "start-backend": "cd server && npm start",
+    "start-frontend": "cd web && npm run dev"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

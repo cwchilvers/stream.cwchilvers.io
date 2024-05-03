@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "node-media-server": "^2.6.6"
+  }
+}

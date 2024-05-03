@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Dependency directories
+npm-debug.log
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Editor directories and files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Media Output
+media/
